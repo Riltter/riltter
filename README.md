@@ -20,13 +20,8 @@ Aqui você encontrará uma variedade de projetos que desenvolvi durante meus est
 
 JavaScript, Java, SQL, HTML, CSS, Python.
 
-## Aprendizado contínuo 📚
-
-Busco sempre aprender e aprofundar meu conhecimento através de projetos pessoais e participação em cursos e palestras. 🌱
-
 ## Contato ☎️
 
 Sinta-se à vontade para me contatar aqui no GitHub ou pelo [LinkedIn](https://www.linkedin.com/in/riltter-kenedy-5a86a1271/)
-
 
 Obrigado por visitar o meu perfil! 😊👍
