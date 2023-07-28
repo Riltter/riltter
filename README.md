@@ -22,7 +22,7 @@ JavaScript, Java, SQL, HTML, CSS, Python.
 
 ## Aprendizado contínuo 📚
 
-Busco sempre aprender e aprofundar meu conhecimento através de projetos pessoais e participação em cursos e conferências. 🌱
+Busco sempre aprender e aprofundar meu conhecimento através de projetos pessoais e participação em cursos e palestras. 🌱
 
 ## Contato ☎️
 
