@@ -2,11 +2,11 @@
 
 ## Sobre mim 😄
 
-Olá! Sou um graduando em Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e sempre em busca de aprendizado e novos desafios. 💻📚
+Olá! Sou um Desenvolvedor Mobile Android apaixonado por tecnologia e sempre em busca de aprendizado e novos desafios. 💻📚
 
 ## Linguagens 🚀
 
-JavaScript, Java, SQL, HTML, CSS, Python.
+Java, Kotlin, SQL, PHP, JavaScript.
 
 ## Contato ☎️
 
