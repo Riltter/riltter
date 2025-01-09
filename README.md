@@ -2,7 +2,7 @@
 
 ## Sobre mim 😄
 
-Olá! Sou um Desenvolvedor Mobile Android apaixonado por tecnologia e sempre em busca de aprendizado e novos desafios. 💻📚
+Olá! Sou um Desenvolvedor de software apaixonado por tecnologia e sempre em busca de aprendizado e novos desafios. 💻📚
 
 ## Linguagens 🚀
 
